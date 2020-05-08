@@ -5,4 +5,5 @@ Many thanks for your interest in our study [*Multi-scale fully convolutional neu
 The source codes and models presented therein will be made available here upon acceptance of the manuscript. In case of questions, urgent requests or if you need to access to the source codes before, please contact the corresponding author. 
 
 Kind regards,
-R. Schmitz
+
+R. Schmitz, on behalft of the authors
